@@ -52,4 +52,4 @@ Want to contribute? Feel free to fork the repo, make improvements, and submit a 
 
 To clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/homework-module-5-quiz-app.git
+git clone https://github.com/9bitbin/quizapp_module5.git
