@@ -5,7 +5,7 @@
 // Homework Module 05 - Quiz App
 // BCS 371 - Mobile Application Development
 
-Welcome to the **Homework Module 5 Quiz App**! This fun and interactive quiz app comes with unique UI elements for each question, a splash screen with emojis, and more! 🎉
+Welcome to the **Homework Module 5 Quiz App**! This fun and interactive quiz app comes with unique UI elements for each question, a splash screen, and more! 🎉
 
 ## ✨ Features
 
