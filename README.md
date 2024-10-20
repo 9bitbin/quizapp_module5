@@ -45,12 +45,6 @@ The codebase is thoroughly commented 📝, explaining key sections to help you u
 
 Want to contribute? Feel free to fork the repo, make improvements, and submit a pull request. Just make sure your code follows the existing conventions and is well-documented!
 
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 To clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/homework-module-5-quiz-app.git
